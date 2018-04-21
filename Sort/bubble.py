@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" Bubble Sorting"""
+""" Bubble Sorting -- stable"""
 
 def bubble_sort(alist):
     #i 0~n-2 range(0, n-1) j=0

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-""" Selection Sorting"""
+""" Selection Sorting -- unstable"""
 
 def select_sort(alist):
     n = len(alist)

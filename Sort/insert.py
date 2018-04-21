@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+""" Insert Sorting -- stable"""
 def insert_sort(alist):
     n = len(alist)
     for j in range(1, n):

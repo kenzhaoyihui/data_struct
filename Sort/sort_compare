@@ -1,0 +1,7 @@
+                Average             Best            Worst       Space          Stable
+Bubble          O(n^2)              O(n)            O(n^2)      O(1)            Stable
+Selection       O(n^2)              O(n^2)          O(n^2)      O(1)            Unstable
+Insert          O(n^2)              O(n)            O(n^2)      O(1)            Stable
+Shell           O(nlogn)~O(n^2)     O(n^[1-3])      O(n^2)      O(1)            Unstable
+Merge           O(nlogn)            O(nlogn)        O(nlogn)    O(n)            Stable
+Quick           O(nlogn)            O(nlogn)        O(n^2)      O(logn)~O(n)    Unstable

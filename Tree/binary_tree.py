@@ -86,3 +86,4 @@ if __name__ == "__main__":
     tree.in_order(tree.root)
     print ("\n")
     tree.last_order(tree.root)
+    print ("\n")
